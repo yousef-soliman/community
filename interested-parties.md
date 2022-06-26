@@ -55,6 +55,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Vic Vuci          | DevCycle      |     Taplytics                                                                    | [vicv](https://github.com/vicv)                         | [vicv](https://gitlab.com/vicv)             |
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
 
+
 _Sorted alphabetically by first name_
 
 ## Interested organizations
